@@ -1,0 +1,5 @@
+www/cheene-server/*
+www/rocket-server/*
+www/vakilyar-server/*
+nginx/logs/*
+nginx/temp/*
